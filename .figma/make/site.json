@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your engineering potential with a professional portfolio that highlights AI/ML projects, technical skills, and evidence-driven solutions for recruiters.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
